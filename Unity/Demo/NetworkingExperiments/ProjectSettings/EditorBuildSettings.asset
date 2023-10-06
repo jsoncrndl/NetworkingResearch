@@ -4,5 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Ragdolls.unity
+    guid: f480dfbbab6b309468bd964808744bd3
+  - enabled: 1
+    path: Assets/Scenes/RPC.unity
+    guid: 2ea7fccaa04ef894eb08687292b7d07d
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
