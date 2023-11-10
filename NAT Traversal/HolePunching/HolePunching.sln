@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolePunching", "HolePunching\HolePunching.csproj", "{5D4638EF-6EE7-471F-981D-3A4770062E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "STUN Server\Server.csproj", "{9D20EF1B-B5CB-4100-8653-319D92F6A9ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Packets", "Packets\Packets.csproj", "{BAF7D1B2-4AE1-4FFE-AE29-C51DE0CAD29D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D4638EF-6EE7-471F-981D-3A4770062E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4638EF-6EE7-471F-981D-3A4770062E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4638EF-6EE7-471F-981D-3A4770062E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4638EF-6EE7-471F-981D-3A4770062E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D20EF1B-B5CB-4100-8653-319D92F6A9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D20EF1B-B5CB-4100-8653-319D92F6A9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D20EF1B-B5CB-4100-8653-319D92F6A9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D20EF1B-B5CB-4100-8653-319D92F6A9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF7D1B2-4AE1-4FFE-AE29-C51DE0CAD29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF7D1B2-4AE1-4FFE-AE29-C51DE0CAD29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF7D1B2-4AE1-4FFE-AE29-C51DE0CAD29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF7D1B2-4AE1-4FFE-AE29-C51DE0CAD29D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3250040-79BC-41A7-B1DE-182A4DBE0D29}
+	EndGlobalSection
+EndGlobal
