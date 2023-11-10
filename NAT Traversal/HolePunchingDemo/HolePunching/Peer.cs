@@ -115,7 +115,6 @@ namespace HolePunching
             }
             else if (isConnected)
             {
-                Console.WriteLine("Received " + message);
                 if (message.StartsWith("[Message]"))
                 {
                     onReceiveMessage?.Invoke(new Message(peerEndpoint.ToString(), message.Substring(9)));
