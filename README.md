@@ -1,3 +1,3 @@
 # Networking Research
 
-This is a repository holding code samples, explanations, and links pertaining to game networking
+This is a repository holding code samples, explanations, and links pertaining to game networking as I research it.
