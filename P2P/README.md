@@ -1,4 +1,5 @@
 # P2P Networking
+This project is a study of P2P protocol design, as well as a WIP implementation of a P2P framework for real-time strategy games in Unreal Engine.
 
 ## Resources
 
